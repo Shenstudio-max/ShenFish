@@ -15,11 +15,11 @@ $ git clone https://github.com/kinghacker0/WishFish
 
 <h3>Usage</h3>
 
-$ cd wishfish
+$ cd ShenFish 
 
 Now turn your device hotspot
 
-$ ./wishfish.sh
+$ ./shenfish.sh
 
 
 
